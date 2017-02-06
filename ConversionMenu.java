@@ -94,7 +94,7 @@ public class ConversionMenu
 	}
 
 				
-	//the nested switches account for the A & B choices. They call Conversion, and get called by testConversion  			
+	//the nested switches account for the A & B choices. They call methods in Conversion, and get called by testConversionMenu  			
 				
 	private void NestedSwitch5()
 	{
