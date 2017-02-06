@@ -16,13 +16,13 @@ public class ConversionMain extends Application
 	
 	public static void main(String args[])
 	{
-		//Label response;
+		
 		
 		
 			Conversion testConversion=new Conversion();
 			ConversionMenu kobe=new ConversionMenu();
 			FinanceMenu test=new FinanceMenu();
-			//Test JavaFX=new Test();
+			
 			
 			
 			
@@ -70,7 +70,7 @@ public class ConversionMain extends Application
 			}while(choice!=3);
 		}
            
-
+		//the method below is practice I am working on in JavaFX to create a username and password. 
 		public void start(Stage myStage)
 		{
 			myStage.setTitle("JavaFX Welcome");
